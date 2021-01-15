@@ -1,0 +1,325 @@
+,Property,Expense Type,Expense Sub-type,Date,Amount
+0,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-01-2017,"14,256.75"
+1,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-02-2017,"14,356.75"
+2,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-03-2017,"14,356.75"
+3,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-04-2017,"14,356.75"
+4,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-05-2017,"14,496.75"
+5,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-06-2017,"14,356.75"
+6,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-07-2017,"17,122.65"
+7,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-08-2017,"14,256.74"
+8,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-09-2017,"14,308.54"
+9,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-10-2017,"15,444.24"
+10,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-11-2017,"14,956.76"
+11,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-12-2017,"16,273.82"
+12,Property 1,Operating Expense,    TOTAL UTILITIES,01-01-2017,705.19
+13,Property 1,Operating Expense,    TOTAL UTILITIES,01-02-2017,498.13
+14,Property 1,Operating Expense,    TOTAL UTILITIES,01-03-2017,486.34
+15,Property 1,Operating Expense,    TOTAL UTILITIES,01-04-2017,530.61
+16,Property 1,Operating Expense,    TOTAL UTILITIES,01-05-2017,536.58
+17,Property 1,Operating Expense,    TOTAL UTILITIES,01-06-2017,886.59
+18,Property 1,Operating Expense,    TOTAL UTILITIES,01-07-2017,0
+19,Property 1,Operating Expense,    TOTAL UTILITIES,01-08-2017,"1,656.38"
+20,Property 1,Operating Expense,    TOTAL UTILITIES,01-09-2017,"1,139.59"
+21,Property 1,Operating Expense,    TOTAL UTILITIES,01-10-2017,675.09
+22,Property 1,Operating Expense,    TOTAL UTILITIES,01-11-2017,"1,935.26"
+23,Property 1,Operating Expense,    TOTAL UTILITIES,01-12-2017,825.32
+24,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-01-2017,120
+25,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-02-2017,0
+26,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-03-2017,"1,632.90"
+27,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-04-2017,64.31
+28,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-05-2017,"1,228.52"
+29,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-06-2017,96.21
+30,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-07-2017,213.94
+31,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-08-2017,65.89
+32,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-09-2017,12.23
+33,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-10-2017,"2,430.67"
+34,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-11-2017,"2,762.78"
+35,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-12-2017,911.08
+36,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-01-2018,"16,790.73"
+37,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-02-2018,"15,067.76"
+38,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-03-2018,"14,592.76"
+39,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-04-2018,"1,08,621.66"
+40,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-05-2018,"16,627.76"
+41,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-06-2018,"17,819.76"
+42,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-07-2018,"15,017.78"
+43,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-08-2018,"20,271.31"
+44,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-09-2018,"8,614.32"
+45,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-10-2018,"18,723.80"
+46,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-11-2018,"15,083.57"
+47,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-12-2018,"31,348.57"
+48,Property 1,Operating Expense,    TOTAL UTILITIES,01-01-2018,607.43
+49,Property 1,Operating Expense,    TOTAL UTILITIES,01-02-2018,585.72
+50,Property 1,Operating Expense,    TOTAL UTILITIES,01-03-2018,666.15
+51,Property 1,Operating Expense,    TOTAL UTILITIES,01-04-2018,618.8
+52,Property 1,Operating Expense,    TOTAL UTILITIES,01-05-2018,465.44
+53,Property 1,Operating Expense,    TOTAL UTILITIES,01-06-2018,429.39
+54,Property 1,Operating Expense,    TOTAL UTILITIES,01-07-2018,416.4
+55,Property 1,Operating Expense,    TOTAL UTILITIES,01-08-2018,392.04
+56,Property 1,Operating Expense,    TOTAL UTILITIES,01-09-2018,435.42
+57,Property 1,Operating Expense,    TOTAL UTILITIES,01-10-2018,"-24,227.16"
+58,Property 1,Operating Expense,    TOTAL UTILITIES,01-11-2018,"-2,209.06"
+59,Property 1,Operating Expense,    TOTAL UTILITIES,01-12-2018,108.56
+60,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-01-2018,"1,066.36"
+61,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-02-2018,"1,439.65"
+62,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-03-2018,"2,045.51"
+63,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-04-2018,"1,645.08"
+64,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-05-2018,"1,531.35"
+65,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-06-2018,"2,259.26"
+66,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-07-2018,"2,070.18"
+67,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-08-2018,"1,545.73"
+68,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-09-2018,"1,357.95"
+69,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-10-2018,"1,500.83"
+70,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-11-2018,"1,344.65"
+71,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-12-2018,"-1,380.94"
+72,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-01-2019,"15,267.34"
+73,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-02-2019,"21,214.47"
+74,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-03-2019,"15,817.34"
+75,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-04-2019,"16,080.34"
+76,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-05-2019,"19,159.34"
+77,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-06-2019,"16,481.34"
+78,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-07-2019,"70,111.67"
+79,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-08-2019,"20,048.51"
+80,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-09-2019,"19,203.51"
+81,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-10-2019,"-16,853.36"
+82,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-11-2019,"19,558.51"
+83,Property 1,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-12-2019,"20,413.00"
+84,Property 1,Operating Expense,    TOTAL UTILITIES,01-01-2019,484.48
+85,Property 1,Operating Expense,    TOTAL UTILITIES,01-02-2019,276.76
+86,Property 1,Operating Expense,    TOTAL UTILITIES,01-03-2019,308.15
+87,Property 1,Operating Expense,    TOTAL UTILITIES,01-04-2019,296.41
+88,Property 1,Operating Expense,    TOTAL UTILITIES,01-05-2019,406.67
+89,Property 1,Operating Expense,    TOTAL UTILITIES,01-06-2019,512.19
+90,Property 1,Operating Expense,    TOTAL UTILITIES,01-07-2019,933.8
+91,Property 1,Operating Expense,    TOTAL UTILITIES,01-08-2019,469.74
+92,Property 1,Operating Expense,    TOTAL UTILITIES,01-09-2019,425.77
+93,Property 1,Operating Expense,    TOTAL UTILITIES,01-10-2019,544.14
+94,Property 1,Operating Expense,    TOTAL UTILITIES,01-11-2019,166.45
+95,Property 1,Operating Expense,    TOTAL UTILITIES,01-12-2019,537.34
+96,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-01-2019,"1,349.84"
+97,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-02-2019,"1,283.33"
+98,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-03-2019,"1,592.67"
+99,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-04-2019,"1,530.48"
+100,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-05-2019,"1,566.01"
+101,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-06-2019,"1,496.59"
+102,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-07-2019,"1,314.56"
+103,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-08-2019,"1,309.24"
+104,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-09-2019,"1,298.95"
+105,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-10-2019,"1,332.75"
+106,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-11-2019,"1,282.14"
+107,Property 1,Operating Expense,    TOTAL GENERAL EXPENSES,01-12-2019,"1,749.77"
+108,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-01-2017,"16,765.64"
+109,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-02-2017,"21,973.65"
+110,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-03-2017,"16,124.55"
+111,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-04-2017,"19,008.28"
+112,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-05-2017,"20,822.58"
+113,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-06-2017,"24,628.85"
+114,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-07-2017,"33,584.30"
+115,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-08-2017,"21,683.83"
+116,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-09-2017,"16,824.90"
+117,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-10-2017,"17,805.33"
+118,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-11-2017,"36,615.26"
+119,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-12-2017,"26,506.62"
+120,Property 2,Operating Expense,    TOTAL UTILITIES,01-01-2017,"2,106.67"
+121,Property 2,Operating Expense,    TOTAL UTILITIES,01-02-2017,"1,939.80"
+122,Property 2,Operating Expense,    TOTAL UTILITIES,01-03-2017,"2,202.87"
+123,Property 2,Operating Expense,    TOTAL UTILITIES,01-04-2017,"2,319.96"
+124,Property 2,Operating Expense,    TOTAL UTILITIES,01-05-2017,"2,405.72"
+125,Property 2,Operating Expense,    TOTAL UTILITIES,01-06-2017,"3,025.59"
+126,Property 2,Operating Expense,    TOTAL UTILITIES,01-07-2017,"1,054.29"
+127,Property 2,Operating Expense,    TOTAL UTILITIES,01-08-2017,"1,364.36"
+128,Property 2,Operating Expense,    TOTAL UTILITIES,01-09-2017,"3,019.41"
+129,Property 2,Operating Expense,    TOTAL UTILITIES,01-10-2017,"2,105.17"
+130,Property 2,Operating Expense,    TOTAL UTILITIES,01-11-2017,"1,470.57"
+131,Property 2,Operating Expense,    TOTAL UTILITIES,01-12-2017,"2,046.31"
+132,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-01-2017,"1,500.00"
+133,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-02-2017,"1,513.93"
+134,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-03-2017,174.88
+135,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-04-2017,"2,234.39"
+136,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-05-2017,68.73
+137,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-06-2017,82.3
+138,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-07-2017,406.35
+139,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-08-2017,894.84
+140,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-09-2017,"1,316.75"
+141,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-10-2017,-26.51
+142,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-11-2017,"2,344.04"
+143,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-12-2017,"1,831.52"
+144,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-01-2018,"20,812.88"
+145,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-02-2018,"16,442.49"
+146,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-03-2018,"22,022.48"
+147,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-04-2018,"51,147.35"
+148,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-05-2018,"29,270.98"
+149,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-06-2018,"24,035.34"
+150,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-07-2018,"21,022.45"
+151,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-08-2018,"17,805.27"
+152,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-09-2018,"23,640.04"
+153,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-10-2018,"27,534.41"
+154,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-11-2018,"28,887.00"
+155,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-12-2018,"32,691.59"
+156,Property 2,Operating Expense,    TOTAL UTILITIES,01-01-2018,"1,698.49"
+157,Property 2,Operating Expense,    TOTAL UTILITIES,01-02-2018,"1,684.33"
+158,Property 2,Operating Expense,    TOTAL UTILITIES,01-03-2018,618.22
+159,Property 2,Operating Expense,    TOTAL UTILITIES,01-04-2018,"1,972.43"
+160,Property 2,Operating Expense,    TOTAL UTILITIES,01-05-2018,"2,028.72"
+161,Property 2,Operating Expense,    TOTAL UTILITIES,01-06-2018,"3,771.66"
+162,Property 2,Operating Expense,    TOTAL UTILITIES,01-07-2018,"2,770.65"
+163,Property 2,Operating Expense,    TOTAL UTILITIES,01-08-2018,-198.81
+164,Property 2,Operating Expense,    TOTAL UTILITIES,01-09-2018,"2,069.08"
+165,Property 2,Operating Expense,    TOTAL UTILITIES,01-10-2018,"1,979.20"
+166,Property 2,Operating Expense,    TOTAL UTILITIES,01-11-2018,"1,640.36"
+167,Property 2,Operating Expense,    TOTAL UTILITIES,01-12-2018,"2,314.40"
+168,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-01-2018,205.92
+169,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-02-2018,148.65
+170,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-03-2018,421.37
+171,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-04-2018,97.82
+172,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-05-2018,"1,520.89"
+173,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-06-2018,"2,457.70"
+174,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-07-2018,"1,966.38"
+175,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-08-2018,453.54
+176,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-09-2018,559.78
+177,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-10-2018,"45,429.46"
+178,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-11-2018,217.23
+179,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-12-2018,519.46
+180,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-01-2019,"18,074.43"
+181,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-02-2019,"19,845.57"
+182,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-03-2019,"20,064.48"
+183,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-04-2019,"23,398.15"
+184,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-05-2019,"17,386.43"
+185,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-06-2019,"16,151.90"
+186,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-07-2019,"43,695.49"
+187,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-08-2019,"30,167.00"
+188,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-09-2019,"28,017.89"
+189,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-10-2019,"31,303.40"
+190,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-11-2019,"26,711.90"
+191,Property 2,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-12-2019,"39,168.87"
+192,Property 2,Operating Expense,    TOTAL UTILITIES,01-01-2019,"1,059.41"
+193,Property 2,Operating Expense,    TOTAL UTILITIES,01-02-2019,"1,118.23"
+194,Property 2,Operating Expense,    TOTAL UTILITIES,01-03-2019,"1,255.23"
+195,Property 2,Operating Expense,    TOTAL UTILITIES,01-04-2019,-449.61
+196,Property 2,Operating Expense,    TOTAL UTILITIES,01-05-2019,"1,398.62"
+197,Property 2,Operating Expense,    TOTAL UTILITIES,01-06-2019,"1,231.01"
+198,Property 2,Operating Expense,    TOTAL UTILITIES,01-07-2019,"1,245.73"
+199,Property 2,Operating Expense,    TOTAL UTILITIES,01-08-2019,"1,353.53"
+200,Property 2,Operating Expense,    TOTAL UTILITIES,01-09-2019,"1,469.66"
+201,Property 2,Operating Expense,    TOTAL UTILITIES,01-10-2019,"1,215.15"
+202,Property 2,Operating Expense,    TOTAL UTILITIES,01-11-2019,622.04
+203,Property 2,Operating Expense,    TOTAL UTILITIES,01-12-2019,"2,157.67"
+204,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-01-2019,33.85
+205,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-02-2019,165.73
+206,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-03-2019,256.45
+207,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-04-2019,698.93
+208,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-05-2019,865.97
+209,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-06-2019,25.22
+210,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-07-2019,215.99
+211,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-08-2019,328.8
+212,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-09-2019,226.59
+213,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-10-2019,202.7
+214,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-11-2019,234.15
+215,Property 2,Operating Expense,    TOTAL GENERAL EXPENSES,01-12-2019,41.81
+216,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-01-2017,"6,172.66"
+217,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-02-2017,"4,500.00"
+218,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-03-2017,"8,525.00"
+219,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-04-2017,"4,914.47"
+220,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-05-2017,"4,938.44"
+221,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-06-2017,"4,500.00"
+222,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-07-2017,"4,500.00"
+223,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-08-2017,"4,500.00"
+224,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-09-2017,"4,500.00"
+225,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-10-2017,"4,500.00"
+226,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-11-2017,"4,500.00"
+227,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-12-2017,"-26,686.84"
+228,Property 3,Operating Expense,    TOTAL UTILITIES,01-01-2017,-14.39
+229,Property 3,Operating Expense,    TOTAL UTILITIES,01-02-2017,116.41
+230,Property 3,Operating Expense,    TOTAL UTILITIES,01-03-2017,546.44
+231,Property 3,Operating Expense,    TOTAL UTILITIES,01-04-2017,471.06
+232,Property 3,Operating Expense,    TOTAL UTILITIES,01-05-2017,191.02
+233,Property 3,Operating Expense,    TOTAL UTILITIES,01-06-2017,20.84
+234,Property 3,Operating Expense,    TOTAL UTILITIES,01-07-2017,404.08
+235,Property 3,Operating Expense,    TOTAL UTILITIES,01-08-2017,663.13
+236,Property 3,Operating Expense,    TOTAL UTILITIES,01-09-2017,-306.34
+237,Property 3,Operating Expense,    TOTAL UTILITIES,01-10-2017,-676.89
+238,Property 3,Operating Expense,    TOTAL UTILITIES,01-11-2017,-412.99
+239,Property 3,Operating Expense,    TOTAL UTILITIES,01-12-2017,453.97
+240,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-01-2017,"42,197.18"
+241,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-02-2017,"42,197.18"
+242,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-03-2017,"42,197.18"
+243,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-04-2017,"42,997.18"
+244,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-05-2017,"42,197.18"
+245,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-06-2017,"42,197.18"
+246,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-07-2017,"42,197.18"
+247,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-08-2017,"37,647.18"
+248,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-09-2017,"42,197.18"
+249,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-10-2017,"42,876.18"
+250,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-11-2017,"42,197.18"
+251,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-12-2017,"43,350.18"
+252,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-01-2018,"4,592.54"
+253,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-02-2018,"3,408.25"
+254,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-03-2018,"3,408.25"
+255,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-04-2018,"3,408.53"
+256,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-05-2018,"3,418.53"
+257,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-06-2018,"7,991.35"
+258,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-07-2018,"3,418.95"
+259,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-08-2018,"3,418.95"
+260,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-09-2018,"3,408.95"
+261,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-10-2018,"3,410.67"
+262,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-11-2018,"3,941.07"
+263,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-12-2018,"7,618.14"
+264,Property 3,Operating Expense,    TOTAL UTILITIES,01-01-2018,0
+265,Property 3,Operating Expense,    TOTAL UTILITIES,01-02-2018,-135.45
+266,Property 3,Operating Expense,    TOTAL UTILITIES,01-03-2018,791.16
+267,Property 3,Operating Expense,    TOTAL UTILITIES,01-04-2018,"-1,021.82"
+268,Property 3,Operating Expense,    TOTAL UTILITIES,01-05-2018,226.4
+269,Property 3,Operating Expense,    TOTAL UTILITIES,01-06-2018,-112.36
+270,Property 3,Operating Expense,    TOTAL UTILITIES,01-07-2018,100.08
+271,Property 3,Operating Expense,    TOTAL UTILITIES,01-08-2018,270.35
+272,Property 3,Operating Expense,    TOTAL UTILITIES,01-09-2018,-270.35
+273,Property 3,Operating Expense,    TOTAL UTILITIES,01-10-2018,-943
+274,Property 3,Operating Expense,    TOTAL UTILITIES,01-11-2018,328.22
+275,Property 3,Operating Expense,    TOTAL UTILITIES,01-12-2018,-549.65
+276,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-01-2018,"42,197.18"
+277,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-02-2018,"42,197.18"
+278,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-03-2018,"42,197.18"
+279,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-04-2018,"42,997.18"
+280,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-05-2018,"42,197.18"
+281,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-06-2018,"38,400.44"
+282,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-07-2018,"42,286.04"
+283,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-08-2018,"42,208.14"
+284,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-09-2018,"42,197.18"
+285,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-10-2018,"42,553.18"
+286,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-11-2018,"42,197.18"
+287,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-12-2018,"43,536.18"
+288,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-01-2019,"5,095.46"
+289,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-02-2019,"3,300.00"
+290,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-03-2019,"4,110.86"
+291,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-04-2019,"3,410.85"
+292,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-05-2019,"6,653.03"
+293,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-06-2019,"3,437.31"
+294,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-07-2019,"3,455.17"
+295,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-08-2019,"3,976.32"
+296,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-09-2019,"3,455.17"
+297,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-10-2019,"3,300.00"
+298,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-11-2019,"3,613.66"
+299,Property 3,Operating Expense,    TOTAL CAM REPAIRS & MAINTENANCE,01-12-2019,"5,173.93"
+300,Property 3,Operating Expense,    TOTAL UTILITIES,01-01-2019,0
+301,Property 3,Operating Expense,    TOTAL UTILITIES,01-02-2019,0
+302,Property 3,Operating Expense,    TOTAL UTILITIES,01-03-2019,-0.01
+303,Property 3,Operating Expense,    TOTAL UTILITIES,01-04-2019,0
+304,Property 3,Operating Expense,    TOTAL UTILITIES,01-05-2019,0
+305,Property 3,Operating Expense,    TOTAL UTILITIES,01-06-2019,-0.8
+306,Property 3,Operating Expense,    TOTAL UTILITIES,01-07-2019,0
+307,Property 3,Operating Expense,    TOTAL UTILITIES,01-08-2019,0
+308,Property 3,Operating Expense,    TOTAL UTILITIES,01-09-2019,0
+309,Property 3,Operating Expense,    TOTAL UTILITIES,01-10-2019,0
+310,Property 3,Operating Expense,    TOTAL UTILITIES,01-11-2019,0
+311,Property 3,Operating Expense,    TOTAL UTILITIES,01-12-2019,0
+312,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-01-2019,"42,249.03"
+313,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-02-2019,"42,197.18"
+314,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-03-2019,"42,197.18"
+315,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-04-2019,"42,997.18"
+316,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-05-2019,"42,197.18"
+317,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-06-2019,"42,297.18"
+318,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-07-2019,"40,018.98"
+319,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-08-2019,"42,197.18"
+320,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-09-2019,"42,197.18"
+321,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-10-2019,"42,833.18"
+322,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-11-2019,"43,497.18"
+323,Property 3,Operating Expense,    TOTAL GENERAL EXPENSES,01-12-2019,"43,926.86"
